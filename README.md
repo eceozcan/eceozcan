@@ -7,8 +7,8 @@ Beyond academics, I actively engage in university clubs, developing leadership, 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=eceozcan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eceozcan&layout=compact&theme=radical)
 
-### 🌐 My Linkedin Account  
-[eceozcan.linkedin](https://www.linkedin.com/in/%C3%B6zcanece/)
+### 📫 How to Reach Me  
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/eceozcan/)](https://www.linkedin.com/in/%C3%B6zcanece/)
 
 
 <!--

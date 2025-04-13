@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi Everyone 👋
+
+### 📌 GitHub Stats and Top Languages
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=eceozcan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eceozcan&layout=compact&theme=radical)
+
+### 🌐 My GitHub Pages  
+[eceozcan.github.io](https://eceozcan.github.io)
+
 
 <!--
 **eceozcan/eceozcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

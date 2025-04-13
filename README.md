@@ -1,11 +1,14 @@
 ## Hi Everyone 👋
+I’m Ece, a third-year Computer Engineering student at IKU with a strong passion for software development, AI, and game development. I have industry experience in AI-driven game mechanics and frontend development, continuously expanding my skills in both Unreal Engine and Unity.
+
+Beyond academics, I actively engage in university clubs, developing leadership, teamwork, and problem-solving skills. I am always eager to explore innovative projects, collaborate with industry professionals, and contribute to the evolving tech and gaming landscape.
 
 ### 📌 GitHub Stats and Top Languages
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=eceozcan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eceozcan&layout=compact&theme=radical)
 
-### 🌐 My GitHub Pages  
-[eceozcan.github.io](https://eceozcan.github.io)
+### 🌐 My Linkedin Account  
+[eceozcan.github.io](https://www.linkedin.com/in/%C3%B6zcanece/)
 
 
 <!--

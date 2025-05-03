@@ -8,8 +8,9 @@ Beyond academics, I actively engage in university clubs, developing leadership, 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eceozcan&layout=compact&theme=radical)
 
 ### 📫 How to Reach Me  
-[ECE OZCAN CV.pdf](https://github.com/user-attachments/files/20024548/ECE.OZCAN.CV.pdf)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/eceozcan/)](https://www.linkedin.com/in/%C3%B6zcanece/)
+You can access my resume from the link: [ECE OZCAN CV.pdf](https://github.com/user-attachments/files/20024548/ECE.OZCAN.CV.pdf)
 
 
 <!--

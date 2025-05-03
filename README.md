@@ -9,7 +9,7 @@ Beyond academics, I actively engage in university clubs, developing leadership, 
 
 ### 📫 How to Reach Me  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/eceozcan/)](https://www.linkedin.com/in/%C3%B6zcanece/)
-
+[ECE OZCAN CV.pdf](https://github.com/user-attachments/files/20024548/ECE.OZCAN.CV.pdf)
 
 <!--
 **eceozcan/eceozcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

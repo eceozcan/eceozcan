@@ -14,7 +14,7 @@ Beyond academics, I actively engage in university clubs, developing leadership, 
 [ECE OZCAN CV.pdf](https://github.com/user-attachments/files/20024548/ECE.OZCAN.CV.pdf)
 
 ### MY DEVELOPED GAME/GAME MECHANICS AND GAMEPLAY VIDEOS
-![Drive Link is here!](https://drive.google.com/drive/folders/1_OGOYN1SZlOLZVm9fQtqO_Bg71qvvzkV)  
+[Drive Link is here!](https://drive.google.com/drive/folders/1_OGOYN1SZlOLZVm9fQtqO_Bg71qvvzkV)  
 
 <!--
 **eceozcan/eceozcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

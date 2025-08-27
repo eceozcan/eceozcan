@@ -1,5 +1,5 @@
 ## Hi Everyone 👋
-I’m Ece, a third-year Computer Engineering student at IKU with a strong passion for software development, AI, and game development. I have industry experience in AI-driven game mechanics and frontend development, continuously expanding my skills in both Unreal Engine and Unity.
+I’m Ece, a final year Computer Engineering student at IKU with a strong passion for software development, AI, and game development. I have industry experience in AI-driven game mechanics and frontend development, continuously expanding my skills in both Unreal Engine and Unity.
 
 Beyond academics, I actively engage in university clubs, developing leadership, teamwork, and problem-solving skills. I am always eager to explore innovative projects, collaborate with industry professionals, and contribute to the evolving tech and gaming landscape.
 

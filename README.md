@@ -3,10 +3,6 @@ I’m Ece, a final year Computer Engineering student at IKU with a strong passio
 
 Beyond academics, I actively engage in university clubs, developing leadership, teamwork, and problem-solving skills. I am always eager to explore innovative projects, collaborate with industry professionals, and contribute to the evolving tech and gaming landscape.
 
-### 📌 GitHub Stats and Top Languages
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=eceozcan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eceozcan&layout=compact&theme=radical)
-
 ### 📫 How to Reach Me  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/eceozcan/)](https://www.linkedin.com/in/%C3%B6zcanece/)

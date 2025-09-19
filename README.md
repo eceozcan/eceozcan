@@ -6,8 +6,6 @@ Beyond academics, I actively engage in university clubs, developing leadership, 
 ### 📫 How to Reach Me  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/eceozcan/)](https://www.linkedin.com/in/%C3%B6zcanece/)
-### You can access my resume from the link: 
-[ECE OZCAN CV.pdf](https://github.com/user-attachments/files/20024548/ECE.OZCAN.CV.pdf)
 
 ### MY DEVELOPED GAME/GAME MECHANICS AND GAMEPLAY VIDEOS
 [Drive Link is here!](https://drive.google.com/drive/folders/1_OGOYN1SZlOLZVm9fQtqO_Bg71qvvzkV)  

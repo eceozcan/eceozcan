@@ -1,7 +1,13 @@
 ## Hi Everyone 👋
-I’m Ece, a final year Computer Engineering student at IKU with a strong passion for software development, AI, and game development. I have industry experience in AI-driven game mechanics and frontend development, continuously expanding my skills in both Unreal Engine and Unity.
+# Ece Özcan
 
-Beyond academics, I actively engage in university clubs, developing leadership, teamwork, and problem-solving skills. I am always eager to explore innovative projects, collaborate with industry professionals, and contribute to the evolving tech and gaming landscape.
+I am a Computer Engineer focused on integrating software architecture, generative AI, and autonomous systems to build smart, resilient products. What drives me most in this field is turning theoretical concepts into clean, hands-on, production-ready code.
+
+My technical background spans evaluating and securing Large Language Models against adversarial attacks, architecting autonomous solver agents within Unity and Unreal Engine, and designing scalable cloud infrastructures. I care deeply about the architectural side of development. Over the years, this has led me to deliver cloud training as a certified instructor and collaborate on decentralized AI systems that earned global recognition at the Stellar Hackathon.
+
+Whether designing agentic workflows or optimizing system loops, I enjoy breaking down complex, high-stakes challenges into scalable architecture. Ultimately, I am a developer who loves to build, experiment with emerging tech, and engineer systems that reason and adapt.
+
+Always open to connecting, exchanging technical ideas, or collaborating on next-generation software and AI engineering.
 
 ### 📫 How to Reach Me  
 
